@@ -1,4 +1,4 @@
-# tygon-css (Лендинг фирмыы "Тайгон" в Фокино)
+# Лендинг фирмы "Тайгон" в Фокино
 
 # Проект: Tygon - лендинг для фирмы
 Привет! Это проект Tygon, созданный мной в 2019 году с 0 на HTML+CSS+JS+PHP.
@@ -11,7 +11,7 @@
 
 **Ссылка на сайт**
 
-* [Это ссылка на мой сайт в GitHub Pages](https://numarta.github.io/)
+* [Это ссылка на мой сайт в GitHub Pages](https://numarta.github.io/tygon-css/index.html)
 
 **Описание**
 
@@ -27,4 +27,5 @@
 Все проверено на ошибки.
 
 Мой сайт:
-https://numarta.github.io/
+https://numarta.github.io/tygon-css/index.html
+http://tygon.weaver.hhos.ru/
